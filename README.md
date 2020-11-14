@@ -11,5 +11,13 @@ The cloud function code is in detect_tone.py
 ## Screenshots
 
 ![alt text](https://media.discordapp.net/attachments/767891545159630849/777285888757465128/unknown.png?width=267&height=562)
+![alt_text](https://cdn.discordapp.com/attachments/767891545159630849/777286755933618257/unknown.png)
+![alt_text](https://cdn.discordapp.com/attachments/767891545159630849/777286821759025152/unknown.png)
+![alt_text](https://cdn.discordapp.com/attachments/767891545159630849/777286958983413760/unknown.png)
+![alt_text](https://cdn.discordapp.com/attachments/767891545159630849/777287019847745556/unknown.png)
+![alt_text](https://cdn.discordapp.com/attachments/767891545159630849/777287855512223814/unknown.png)
+![alt_text](https://cdn.discordapp.com/attachments/767891545159630849/777288139931910174/unknown.png)
+![alt_text](https://cdn.discordapp.com/attachments/767891545159630849/777288509135912991/unknown.png)
+
 
 
