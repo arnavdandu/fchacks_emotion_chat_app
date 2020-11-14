@@ -4,4 +4,5 @@ People with autism or schizophrenia sometimes struggle to recognize emotions dis
 
 ## Getting Started
 
-The source code is in /lib/main.dart
+The app source code is in /lib/main.dart
+The cloud function code is in detect_tone.py
